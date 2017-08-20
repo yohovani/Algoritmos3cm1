@@ -1,0 +1,1 @@
+java -cp .;JbcParser.jar; Example.bcParserApplet.AppletbcParser

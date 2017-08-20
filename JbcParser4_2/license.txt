@@ -1,0 +1,65 @@
+MathParser - Math Expression Parser - Copyright Suavi Ali Demir
+
+com.bestcode.mathparser Java Package Licence Agreement
+---------------------------------------------
+
+License agreement
+=================
+
+MathParser mentioned below refers to java class implemented in package com.bestcode.mathparser.
+
+Agreement
+---------
+By installing and using this software you agree with:
+- One licence allows the use of one copy of MathParser for development.
+- Single Developer License is a licence to use the software on one 
+  development computer only. Site license allows the use of the software
+  on unlimited number of machines by unlimited number of developers in your
+  organization.
+- You can distribute your application that is built using registered 
+  version of MathParser.
+- You can distribute the original or the modified parser binaries along with your application.
+- You cannot distribute the original or the modified source code.
+- You can ship any number of applications built with this component royalty free.
+- You may not use this software to create a competitive product, 
+  in similar nature. You may not use this product to create another 
+  java component, an ActiveX control, a COM component, a VCL component 
+  or similar to distribute UNLESS you create such components not to 
+  distribute them but only to use them yourself to build another application.
+- You may not use the trial version of this software in 
+  any application other than trial purposes. Trial period 
+  will last no longer than 1 month after your first test.
+
+Disclaimer
+==========
+The Author of this software cannot and do not warrant that any 
+functions contained in the Software will meet your requirements, 
+or that its operations will be error free. 
+
+The entire risk as to the Software performance or quality, 
+or both, is solely with the user and not the Author.
+ 
+You assume responsibility for the selection of the software to 
+achieve your intended results, and for the installation, use, and 
+results obtained from the Software. 
+
+The Author makes no warranty, either implied or expressed, including 
+with-out limitation any warranty with respect to this Software 
+documented here, its quality, performance, or fitness for a particular 
+purpose. In no event shall the Author be liable to you for damages, 
+whether direct or indirect, incidental, special, or consequential 
+arising out the use of or any defect in the Software, even if the 
+Author has been advised of the possibility of such damages, 
+or for any claim by any other party. 
+
+All other warranties of any kind, either express or implied, 
+including but not limited to the implied warranties of 
+merchantability and fitness for a particular purpose, are expressly 
+excluded.
+
+Thanks and happy coding! 
+
+- bestcode team
+
+www.bestcode.com
+support@bestcode.com
